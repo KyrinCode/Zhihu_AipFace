@@ -6,7 +6,10 @@ from lxml import etree
 from aip import AipFace
 from BaiduAI import APP_ID, API_KEY, SECRET_KEY #删除此行，将 APP_ID、API_KEY、SECRET_KEY 补充完整
 
-# 百度AI 人脸检测 申请信息 
+# Python SDK
+# https://cloud.baidu.com/doc/FACE/s/ek37c1qiz#%E4%BA%BA%E8%84%B8%E6%A3%80%E6%B5%8B
+
+# 百度AI 人脸检测 申请信息
 # 必填信息 出于隐私需要从 BaiduAI.py 导入
 # APP_ID = "xxx"
 # API_KEY = "xxx"
